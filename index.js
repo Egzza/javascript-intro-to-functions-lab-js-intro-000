@@ -23,7 +23,7 @@ if(string === string.toUpperCase()){
 } else {
   return "I love you too."
 }
-  
+
   /*switch (string) {
     case "I love you, Garndma." === string:
         string = "I love you too."
