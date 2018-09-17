@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
         return "I love you too."
       break;
     case string === string.toLowerCase()
-        return "I can't hear you!"
+        return "I can\'t hear you!"
       break;
     case string === string.toUpperCase():
         return "YES INDEED"
