@@ -36,8 +36,8 @@ if(string === string.toUpperCase()){
       case string.toUpperCase() === string:
         string = "YES INDEED!"
         return string
-        break;*/
+        break;
     default:
-    return false;
-  }
+    
+  }*/
 }
