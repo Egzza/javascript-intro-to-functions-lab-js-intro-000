@@ -38,6 +38,6 @@ if(string === string.toUpperCase()){
         return string
         break;
     default:
-    
+
   }*/
 }
