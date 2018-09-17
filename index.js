@@ -21,7 +21,7 @@ if(string === string.toUpperCase()){
 } else if (string === string.toLowerCase()) {
   return "I can\'t hear you!"
 } else {
-  return "I love you too."
+  return "I love you, too."
 }
 
   /*switch (string) {
