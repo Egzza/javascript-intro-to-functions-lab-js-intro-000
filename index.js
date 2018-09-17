@@ -19,12 +19,12 @@ function sayHiToGrandma(string) {
     case string === "I love you, Garndma.":
         return "I love you too."
       break;
-    case string === string.toLowerCase()
-        return "I can\'t hear you!"
+    case string === string.toLowerCase():
+      return "I can\'t hear you!"
       break;
-    /*case string === string.toLowerCase()
-          return "I can't hear you!"
-        break;*/
+      case string === string.toUpperCase():
+        return "YES INDEED!"
+        break;
     default:
 
   }
